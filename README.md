@@ -16,7 +16,6 @@ sazonais, principalmente, no inverno.
 ## Integrantes
 
 * Matheus de Jesus Santos
-* Maria Luiza Barbosa
 * Welbscley Lucas
 * Roberto Gontijo
 * Raul Vitor de Resende
